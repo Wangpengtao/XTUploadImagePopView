@@ -7,8 +7,6 @@ target 'XTDemo' do
 
   # Pods for XTDemo
   pod 'TZImagePickerController', '~> 3.8.3'
-#  pod 'XLPhotoBrowser+CoderXL', '~> 1.2.0'
-#  pod 'SDPhotoBrowser', '~> 0.0.3'
   
   
   
